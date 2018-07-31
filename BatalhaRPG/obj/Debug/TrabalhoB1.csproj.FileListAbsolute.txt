@@ -1,0 +1,25 @@
+C:\Users\frp.8500545136\Desktop\VS\Trabalho B1\TrabalhoB1\TrabalhoB1\bin\Debug\TrabalhoB1.exe.config
+C:\Users\frp.8500545136\Desktop\VS\Trabalho B1\TrabalhoB1\TrabalhoB1\bin\Debug\TrabalhoB1.exe
+C:\Users\frp.8500545136\Desktop\VS\Trabalho B1\TrabalhoB1\TrabalhoB1\bin\Debug\TrabalhoB1.pdb
+C:\Users\frp.8500545136\Desktop\VS\Trabalho B1\TrabalhoB1\TrabalhoB1\obj\Debug\TrabalhoB1.csprojResolveAssemblyReference.cache
+C:\Users\frp.8500545136\Desktop\VS\Trabalho B1\TrabalhoB1\TrabalhoB1\obj\Debug\TrabalhoB1.Batalha.resources
+C:\Users\frp.8500545136\Desktop\VS\Trabalho B1\TrabalhoB1\TrabalhoB1\obj\Debug\TrabalhoB1.CriarPersonagem.resources
+C:\Users\frp.8500545136\Desktop\VS\Trabalho B1\TrabalhoB1\TrabalhoB1\obj\Debug\TrabalhoB1.Menu.resources
+C:\Users\frp.8500545136\Desktop\VS\Trabalho B1\TrabalhoB1\TrabalhoB1\obj\Debug\TrabalhoB1.Properties.Resources.resources
+C:\Users\frp.8500545136\Desktop\VS\Trabalho B1\TrabalhoB1\TrabalhoB1\obj\Debug\TrabalhoB1.csproj.GenerateResource.Cache
+C:\Users\frp.8500545136\Desktop\VS\Trabalho B1\TrabalhoB1\TrabalhoB1\obj\Debug\TrabalhoB1.csproj.CoreCompileInputs.cache
+C:\Users\frp.8500545136\Desktop\VS\Trabalho B1\TrabalhoB1\TrabalhoB1\obj\Debug\TrabalhoB1.exe
+C:\Users\frp.8500545136\Desktop\VS\Trabalho B1\TrabalhoB1\TrabalhoB1\obj\Debug\TrabalhoB1.pdb
+C:\Users\André\Desktop\VS\TrabalhoB1\TrabalhoB1\bin\Debug\TrabalhoB1.exe.config
+C:\Users\André\Desktop\VS\TrabalhoB1\TrabalhoB1\bin\Debug\TrabalhoB1.exe
+C:\Users\André\Desktop\VS\TrabalhoB1\TrabalhoB1\bin\Debug\TrabalhoB1.pdb
+C:\Users\André\Desktop\VS\TrabalhoB1\TrabalhoB1\obj\Debug\TrabalhoB1.csprojResolveAssemblyReference.cache
+C:\Users\André\Desktop\VS\TrabalhoB1\TrabalhoB1\obj\Debug\TrabalhoB1.Batalha.resources
+C:\Users\André\Desktop\VS\TrabalhoB1\TrabalhoB1\obj\Debug\TrabalhoB1.CriarPersonagem.resources
+C:\Users\André\Desktop\VS\TrabalhoB1\TrabalhoB1\obj\Debug\TrabalhoB1.Menu.resources
+C:\Users\André\Desktop\VS\TrabalhoB1\TrabalhoB1\obj\Debug\TrabalhoB1.Properties.Resources.resources
+C:\Users\André\Desktop\VS\TrabalhoB1\TrabalhoB1\obj\Debug\TrabalhoB1.csproj.GenerateResource.Cache
+C:\Users\André\Desktop\VS\TrabalhoB1\TrabalhoB1\obj\Debug\TrabalhoB1.csproj.CoreCompileInputs.cache
+C:\Users\André\Desktop\VS\TrabalhoB1\TrabalhoB1\obj\Debug\TrabalhoB1.exe
+C:\Users\André\Desktop\VS\TrabalhoB1\TrabalhoB1\obj\Debug\TrabalhoB1.pdb
+C:\Users\André\Desktop\VS\TrabalhoB1\TrabalhoB1\obj\Debug\TrabalhoB1.FimDeJogo.resources
